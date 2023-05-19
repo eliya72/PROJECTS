@@ -15,6 +15,7 @@
 #### *599 x 784* etc.
 ![second](https://github.com/eliya72/PROJECTS/assets/53794805/1067455b-416e-4c19-95d7-451ceb4a2808)
 ## ◻ City input test
+### To start searching, simply enter desirable city name, then press 'Enter' or click on the search button
 ![third](https://github.com/eliya72/PROJECTS/assets/53794805/dd866950-cd93-4a55-8d4e-eaf3aa74c492)
 ![sixth](https://github.com/eliya72/PROJECTS/assets/53794805/0ef3af25-c36a-44d9-9a2b-84224e222cf1)
 ## ◻ Phone view
