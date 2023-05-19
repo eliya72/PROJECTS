@@ -2,6 +2,9 @@
 ### This project is hosted by notify using my privat repository on GitHub
 ### So here is link to project &nbsp;&nbsp; ---> &nbsp;&nbsp; **[weathersite-eliia](https://weathersite-eliia.netlify.app/)**
 <br></br>
+## Used site as an api &nbsp;&nbsp; ---> &nbsp;&nbsp; https://openweathermap.org/
+
+<br></br>
 ## Some overview:
 ## ◻ display size of the home page:
 #### *1920 x 1080* etc.
