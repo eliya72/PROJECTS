@@ -1,2 +1,2 @@
-# PROJECTS
-## There are folders with all projects
+# PROJECTS  
+### Chose and click on folder
