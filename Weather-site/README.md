@@ -50,7 +50,7 @@
 ![rain](https://github.com/eliya72/PROJECTS/assets/53794805/be95ef25-dbbb-4006-b421-71c20e030cad)
 ## ⬛ Drizzle
 ### Drizzle
-![Uploading drizzle.png…]()
+![drizzle](https://github.com/eliya72/PROJECTS/assets/53794805/c8bf3472-f01b-44fc-b2ce-4499f50ce8f7)
 ## ⬛ Thunderstorm
 ### Thunderstorm
 ![lightning](https://github.com/eliya72/PROJECTS/assets/53794805/a97bbd68-baa2-4b74-930e-d04738f81e75)
