@@ -18,4 +18,38 @@ fourth](https://github.com/eliya72/PROJECTS/assets/53794805/158fac15-cd50-434c-9
 ## ⬛ Clouds
 ### Few Clouds
 ![cloudsun](https://github.com/eliya72/PROJECTS/assets/53794805/4014d50d-1bc6-4c91-a5d2-ad3663164b36)
-### Clouds
+### Scattered Clouds
+![cloud](https://github.com/eliya72/PROJECTS/assets/53794805/92e595f5-24e4-4298-a812-dc037ba1325e)
+### Broken Clouds
+![broken](https://github.com/eliya72/PROJECTS/assets/53794805/aff4b1fb-3d6d-43e4-83ab-25e2e1974253)
+### Overcast Clouds
+![broken](https://github.com/eliya72/PROJECTS/assets/53794805/ffbcc9d7-1902-4982-90f7-5191d55efd4b)
+## ⬛ Clear
+### Clear Sky
+![sun](https://github.com/eliya72/PROJECTS/assets/53794805/77da9621-1eba-419e-9ae2-879187c1c3f8)
+## ⬛ Atmosphere
+### Mist, Smoke, Haze, Dust, Fog, Sand, Dust, Ash, Squall, Tornado
+![atmosphere](https://github.com/eliya72/PROJECTS/assets/53794805/5f745b10-1f95-454d-a95f-ce1d6af68dee)
+## ⬛ Snow
+### Snow
+![snow](https://github.com/eliya72/PROJECTS/assets/53794805/b1f00739-c483-4fcc-8895-01353456d7d9)
+### Rain and Snow
+![rainsnow](https://github.com/eliya72/PROJECTS/assets/53794805/52d66133-9069-450d-8731-b419c65f5749)
+### Sleet
+![rainsnow](https://github.com/eliya72/PROJECTS/assets/53794805/c2f71df4-ad00-478a-aa9c-13752cbaa689)
+## ⬛ Rain
+### Rain
+![rain](https://github.com/eliya72/PROJECTS/assets/53794805/be95ef25-dbbb-4006-b421-71c20e030cad)
+## ⬛ Drizzle
+### Drizzle
+![Uploading drizzle.png…]()
+## ⬛ Thunderstorm
+### Thunderstorm
+![lightning](https://github.com/eliya72/PROJECTS/assets/53794805/a97bbd68-baa2-4b74-930e-d04738f81e75)
+## ◻ List of all icons for weather details
+## ⬛ Wind
+### Wind
+![wind](https://github.com/eliya72/PROJECTS/assets/53794805/0b9395b9-77a8-4fec-9a0b-449628d05c80)
+## ⬛ Humidity
+### Humidity
+![humidity](https://github.com/eliya72/PROJECTS/assets/53794805/8bba9568-0988-4179-9856-6b45d7e72c18)
