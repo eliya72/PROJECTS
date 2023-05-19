@@ -16,8 +16,6 @@
 ![second](https://github.com/eliya72/PROJECTS/assets/53794805/1067455b-416e-4c19-95d7-451ceb4a2808)
 ## ◻ City input test
 ![third](https://github.com/eliya72/PROJECTS/assets/53794805/dd866950-cd93-4a55-8d4e-eaf3aa74c492)
-![![Uploading fifth.png…]()
-fourth](https://github.com/eliya72/PROJECTS/assets/53794805/158fac15-cd50-434c-92d3-6ebb5b5319f7)
 ![sixth](https://github.com/eliya72/PROJECTS/assets/53794805/0ef3af25-c36a-44d9-9a2b-84224e222cf1)
 ## ◻ Phone view
 ![eigth](https://github.com/eliya72/PROJECTS/assets/53794805/3efc26a4-2d53-4c43-97fe-df524257c2cc)
