@@ -17,6 +17,8 @@
 ![![Uploading fifth.png…]()
 fourth](https://github.com/eliya72/PROJECTS/assets/53794805/158fac15-cd50-434c-92d3-6ebb5b5319f7)
 ![sixth](https://github.com/eliya72/PROJECTS/assets/53794805/0ef3af25-c36a-44d9-9a2b-84224e222cf1)
+## ◻ Invalid city input test
+![seventh](https://github.com/eliya72/PROJECTS/assets/53794805/31ce05f9-4ecc-4627-8b54-af0fa9f550e2)
 <br></br>
 ## ◻ List of all icons for weather conditions
 ## ⬛ Clouds
