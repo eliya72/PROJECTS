@@ -5,7 +5,7 @@
 ![icn](https://github.com/eliya72/PROJECTS/assets/53794805/714587f8-85ab-4ade-bc57-cb89f5ccab73)
 <br></br>
 ### Used site as an api &nbsp;&nbsp; ---> &nbsp;&nbsp; https://openweathermap.org/
-### All icons are mine and was designed in adobe illustrator
+### All icons and blue background are mine and was designed in adobe illustrator
 
 <br></br>
 ## Some overview:
