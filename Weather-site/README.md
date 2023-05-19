@@ -1,6 +1,8 @@
 # Weather site
 ## This project is hosted by notify using my privat repository on GitHub
 ## So here is link to project &nbsp;&nbsp; ---> &nbsp;&nbsp; **[weathersite-eliia](https://weathersite-eliia.netlify.app/)**
+### Icon 
+![icn](https://github.com/eliya72/PROJECTS/assets/53794805/714587f8-85ab-4ade-bc57-cb89f5ccab73)
 <br></br>
 ### Used site as an api &nbsp;&nbsp; ---> &nbsp;&nbsp; https://openweathermap.org/
 ### All icons are mine and was designed in adobe illustrator
