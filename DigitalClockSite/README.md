@@ -8,5 +8,6 @@
 ### ◻ display size of the home page:
 #### *1920 x 1080* etc.
 ![first](https://github.com/eliya72/PROJECTS/assets/53794805/bf30a5d9-36f0-47b6-98dc-4514c6e56337)
+### ◻ phone view
 #### *459 x 784* etc.
 ![second](https://github.com/eliya72/PROJECTS/assets/53794805/54455511-0831-4697-bc04-b09882b4b5d9)
