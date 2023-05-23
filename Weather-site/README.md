@@ -1,4 +1,4 @@
-# Weather site
+# Current weather site
 ## This project is hosted by notify using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[weathersite-eliia](https://weathersite-eliia.netlify.app/)**
 ### Icon 
