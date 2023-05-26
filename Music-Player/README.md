@@ -12,55 +12,26 @@
 ## Some overview:
 ## ◻ display size of the home page:
 #### *1920 x 1080* etc.
-![first](https://github.com/eliya72/PROJECTS/assets/53794805/4b3a76a6-9bf5-49a3-ba34-b5140355bcd9)
-#### *599 x 784* etc.
-![second](https://github.com/eliya72/PROJECTS/assets/53794805/1067455b-416e-4c19-95d7-451ceb4a2808)
-## ◻ City input test
-### To start searching, simply enter desirable city name, then press 'Enter' or click on the search button
-![third](https://github.com/eliya72/PROJECTS/assets/53794805/dd866950-cd93-4a55-8d4e-eaf3aa74c492)
-![sixth](https://github.com/eliya72/PROJECTS/assets/53794805/0ef3af25-c36a-44d9-9a2b-84224e222cf1)
-## ◻ Phone view
-![eigth](https://github.com/eliya72/PROJECTS/assets/53794805/3efc26a4-2d53-4c43-97fe-df524257c2cc)
-## ◻ Invalid city input test
-![seventh](https://github.com/eliya72/PROJECTS/assets/53794805/31ce05f9-4ecc-4627-8b54-af0fa9f550e2)
-<br></br>
-## ◻ List of all icons for weather conditions
-## ⬛ Clouds
-### Few Clouds
-![cloudsun](https://github.com/eliya72/PROJECTS/assets/53794805/4014d50d-1bc6-4c91-a5d2-ad3663164b36)
-### Scattered Clouds
-![cloud](https://github.com/eliya72/PROJECTS/assets/53794805/92e595f5-24e4-4298-a812-dc037ba1325e)
-### Broken Clouds
-![broken](https://github.com/eliya72/PROJECTS/assets/53794805/aff4b1fb-3d6d-43e4-83ab-25e2e1974253)
-### Overcast Clouds
-![broken](https://github.com/eliya72/PROJECTS/assets/53794805/ffbcc9d7-1902-4982-90f7-5191d55efd4b)
-## ⬛ Clear
-### Clear Sky
-![sun](https://github.com/eliya72/PROJECTS/assets/53794805/77da9621-1eba-419e-9ae2-879187c1c3f8)
-## ⬛ Atmosphere
-### Mist, Smoke, Haze, Dust, Fog, Sand, Dust, Ash, Squall, Tornado
-![atmosphere](https://github.com/eliya72/PROJECTS/assets/53794805/5f745b10-1f95-454d-a95f-ce1d6af68dee)
-## ⬛ Snow
-### Snow
-![snow](https://github.com/eliya72/PROJECTS/assets/53794805/b1f00739-c483-4fcc-8895-01353456d7d9)
-### Rain and Snow
-![rainsnow](https://github.com/eliya72/PROJECTS/assets/53794805/52d66133-9069-450d-8731-b419c65f5749)
-### Sleet
-![rainsnow](https://github.com/eliya72/PROJECTS/assets/53794805/c2f71df4-ad00-478a-aa9c-13752cbaa689)
-## ⬛ Rain
-### Rain
-![rain](https://github.com/eliya72/PROJECTS/assets/53794805/be95ef25-dbbb-4006-b421-71c20e030cad)
-## ⬛ Drizzle
-### Drizzle
-![drizzle](https://github.com/eliya72/PROJECTS/assets/53794805/c8bf3472-f01b-44fc-b2ce-4499f50ce8f7)
-## ⬛ Thunderstorm
-### Thunderstorm
-![lightning](https://github.com/eliya72/PROJECTS/assets/53794805/a97bbd68-baa2-4b74-930e-d04738f81e75)
-## ◻ List of all icons for weather details
-## ⬛ Wind
-### Wind
-![wind](https://github.com/eliya72/PROJECTS/assets/53794805/0b9395b9-77a8-4fec-9a0b-449628d05c80)
-## ⬛ Humidity
-### Humidity
-![humidity](https://github.com/eliya72/PROJECTS/assets/53794805/8bba9568-0988-4179-9856-6b45d7e72c18)
-
+![first](https://github.com/eliya72/PROJECTS/assets/53794805/1477d0ff-c271-470e-9473-290ef20e9b2e)
+![second](https://github.com/eliya72/PROJECTS/assets/53794805/44ac58f2-1a0b-48d9-b878-a00a14907780)
+#### *980 x 784* etc.
+![third](https://github.com/eliya72/PROJECTS/assets/53794805/8b64f07a-49d0-45cb-b3fc-61c7d6bdee03)
+#### *384 x 784* etc.
+![Screenshot_20230526_223945_Chrome](https://github.com/eliya72/PROJECTS/assets/53794805/f7e3f54f-8244-43e0-81f4-e3ee8a572c24)
+## ◻ Music list:
+#### 1. [Nebo, Odyn v kanoe](https://www.youtube.com/watch?v=tepT4EcBTC0&pp=ygURb2R5biB2IGthbm9lIG5lYm8%3D)
+#### 2. [Choven, Odyn v kanoe](https://www.youtube.com/watch?v=lUdbxJXBuig&pp=ygUTb2R5biB2IGthbm9lIGNob3Zlbg%3D%3D)
+#### 3. [Odyn c poli voin, Odyn v kanoe](https://www.youtube.com/watch?v=P047OT4o5vU&pp=ygUdb2R5biB2IGthbm9lIG9keW4gdiBwb2xpIHZvaW4%3D)
+#### 4. [When You're sad I'm sad, Charlie Puth](https://www.youtube.com/watch?v=pcqUZMgMnVM&pp=ygUXV2hlbiBZb3UncmUgc2FkIEknbSBzYWQ%3D)
+#### 5. [Tears on my piano, Charlie Puth](https://www.youtube.com/watch?v=kX6wgd9QUxw&pp=ygURVGVhcnMgb24gbXkgcGlhbm8%3D)
+#### 6. [GOLOS, ONUKA](https://www.youtube.com/watch?v=wa-Q7SepuoE&pp=ygULZ29sb3Mgb251a2E%3D)
+#### 7. [Engravings, Ethan Bortnick](https://www.youtube.com/watch?v=7xWVhAOd-6U&pp=ygUKRW5ncmF2aW5ncw%3D%3D)
+#### 8. [Moments we live for, In Paradise](https://www.youtube.com/watch?v=XRH9jjIkhUM&pp=ygUfSW4gUGFyYWRpc2UgTW9tZW50cyB3ZSBsaXZlIGZvcg%3D%3D)
+#### 9. [Warszawa, Sanah](https://www.youtube.com/watch?v=tHTqJ0_isp0&pp=ygUOV2Fyc3phd2Egc2FuYWg%3D)
+#### 10. [Siebie zapytasz, Sanah](https://www.youtube.com/watch?v=FKee5VCDVxg&pp=ygUUU2llYmllIHphcHl0YXN6c2FuYWg%3D)
+#### 11. [Solo, Sanah](https://www.youtube.com/watch?v=z1q9NJ1Ur6M&pp=ygUKU29sbyBzYW5haA%3D%3D)
+#### 12. [Nic dwa razy, Sanah](https://www.youtube.com/watch?v=rR001X7JQy8&pp=ygUSTmljIGR3YSByYXp5IHNhbmFo)
+#### 13. [Hymn, Sanah](https://www.youtube.com/watch?v=WxtseR03lzY&pp=ygUKSHltbiBzYW5haA%3D%3D)
+#### 14. [Cząstka, Sanah](https://www.youtube.com/watch?v=ViVIOQdzYno&pp=ygURQ3rDhOKApnN0a2Egc2FuYWg%3D)
+#### 15. [Melodia, Sanah](https://www.youtube.com/watch?v=pxikqLzKZDY&pp=ygUNTWVsb2RpYSBzYW5haA%3D%3D)
+#### 16. [To koniec, Sanah](https://www.youtube.com/watch?v=dtffomO-Kes&pp=ygUPVG8ga29uaWVjIHNhbmFo)
