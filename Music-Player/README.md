@@ -3,11 +3,7 @@
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[music player site](https://musicplayer-my.netlify.app/)**
 ### Icon 
 ![icon](https://github.com/eliya72/PROJECTS/assets/53794805/206979dc-277c-4faf-bf37-fc865e62323b)
-
-<br></br>
-
-### Icon is mine and was designed in adobe illustrator
-
+#### Icon is mine and was designed in adobe illustrator
 <br></br>
 ## Some overview:
 ## ◻ display size of the home page:
