@@ -2,7 +2,7 @@
 ## This project is hosted by notify using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[noise-page](https://noise-page.netlify.app/)**
 ### Icon 
-![Group 2](https://github.com/eliya72/PROJECTS/assets/53794805/00c891bb-1895-4976-85e7-fd81a98699f8)
+![icon1](https://github.com/eliya72/PROJECTS/assets/53794805/2ac29e0f-b042-4ec3-8e3f-0fd091c4cfa6)
 #### Tech. used:
 &nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;&nbsp;![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;&nbsp;
 #### Icon is mine and was designed in Figma
