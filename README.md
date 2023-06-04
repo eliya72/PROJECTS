@@ -1,5 +1,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIST OF PROJECTS
-## ◻ Striving for responsive design in all of my projects 💻🖥📱
+## 💨 Striving for responsive design in all of my projects 💻🖥📱
 ### Choose and click on link below:
 <br></br>
 # 1. [Noise page](https://github.com/eliya72/PROJECTS/tree/main/Noise) &nbsp;![Group 2](https://github.com/eliya72/PROJECTS/assets/53794805/b3110d1c-c4fc-4d51-8ba8-b6da364bccff)
