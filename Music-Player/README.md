@@ -11,6 +11,7 @@
 ## ◻ loader:
 ![loadert](https://github.com/eliya72/PROJECTS/assets/53794805/cde778cf-b87e-4357-b7f5-bd335f2f1f72)
 ## ◻ display size of the home page:
+### 💨 track rewinding and volume level are present and functional (- just click either on volume line below headsets image or track line -)
 #### *1920 x 1080* etc.
 ![first](https://github.com/eliya72/PROJECTS/assets/53794805/185856e0-4828-4262-898a-34105121cfe9)
 ![second](https://github.com/eliya72/PROJECTS/assets/53794805/44ac58f2-1a0b-48d9-b878-a00a14907780)
