@@ -2,13 +2,15 @@
 ## This project is hosted by notify using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[music player site](https://musicplayer-my.netlify.app/)**
 ### Icon 
-![icon](https://github.com/eliya72/PROJECTS/assets/53794805/206979dc-277c-4faf-bf37-fc865e62323b)
+![icon 1](https://github.com/eliya72/PROJECTS/assets/53794805/f074264c-7061-4545-868e-19a4346af2a6)
+#### Tech. used:
+&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;&nbsp;![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;&nbsp;
 #### Icon is mine and was designed in adobe illustrator
 <br></br>
-## Some overview:
+# ➕ Some overview:
 ## ◻ display size of the home page:
 #### *1920 x 1080* etc.
-![first](https://github.com/eliya72/PROJECTS/assets/53794805/1477d0ff-c271-470e-9473-290ef20e9b2e)
+![first](https://github.com/eliya72/PROJECTS/assets/53794805/185856e0-4828-4262-898a-34105121cfe9)
 ![second](https://github.com/eliya72/PROJECTS/assets/53794805/44ac58f2-1a0b-48d9-b878-a00a14907780)
 #### *980 x 784* etc.
 ![third](https://github.com/eliya72/PROJECTS/assets/53794805/8b64f07a-49d0-45cb-b3fc-61c7d6bdee03)
