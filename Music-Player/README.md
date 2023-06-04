@@ -8,6 +8,8 @@
 #### Icon is mine and was designed in Adobe Illustrator
 <br></br>
 # ➕ Some overview:
+## ◻ loader:
+![loadert](https://github.com/eliya72/PROJECTS/assets/53794805/cde778cf-b87e-4357-b7f5-bd335f2f1f72)
 ## ◻ display size of the home page:
 #### *1920 x 1080* etc.
 ![first](https://github.com/eliya72/PROJECTS/assets/53794805/185856e0-4828-4262-898a-34105121cfe9)
