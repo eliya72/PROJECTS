@@ -2,13 +2,14 @@
 ## This project is hosted by notify using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[weathersite-eliia](https://weathersite-eliia.netlify.app/)**
 ### Icon 
-![icn](https://github.com/eliya72/PROJECTS/assets/53794805/714587f8-85ab-4ade-bc57-cb89f5ccab73)
+![Group](https://github.com/eliya72/PROJECTS/assets/53794805/3b37d915-2b06-4426-b91e-a24cd48a1bd0)
+#### Tech. used:
+&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;&nbsp;![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;&nbsp;
 <br></br>
 ### Used site as an api &nbsp;&nbsp; ---> &nbsp;&nbsp; https://openweathermap.org/
-### All icons and a blue background are mine and were designed in adobe illustrator
-
+#### All icons and a blue background are mine and were designed in Adobe Illustrator & Adobe Photoshop
 <br></br>
-## Some overview:
+# ➕ Some overview:
 ## ◻ display size of the home page:
 #### *1920 x 1080* etc.
 ![first](https://github.com/eliya72/PROJECTS/assets/53794805/4b3a76a6-9bf5-49a3-ba34-b5140355bcd9)
