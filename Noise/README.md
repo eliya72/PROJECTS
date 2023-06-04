@@ -13,6 +13,7 @@
 ### ◻ display size of the home page:
 #### *1920 x 1080* etc.
 ![pagefull](https://github.com/eliya72/PROJECTS/assets/53794805/63fbf7de-5a1b-4131-b04e-cde8dd085841)
+
 ### ◻ phone view
 #### *378 x 784* etc.
 ![pagephone](https://github.com/eliya72/PROJECTS/assets/53794805/409f3bf6-7c76-4af2-aa99-5c582b2ad85c)
