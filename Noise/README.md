@@ -1,5 +1,5 @@
 # Noise page with some shapes
-## This project is hosted by notify using my privat repository on GitHub
+## This project is hosted by [Netlify](https://www.netlify.com/) using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[noise-page](https://noise-page.netlify.app/)**
 ### Icon 
 ![icon1](https://github.com/eliya72/PROJECTS/assets/53794805/2ac29e0f-b042-4ec3-8e3f-0fd091c4cfa6)
