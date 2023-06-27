@@ -1,5 +1,5 @@
 # Music player
-## This project is hosted by notify using my privat repository on GitHub
+## This project is hosted by [Netlify](https://www.netlify.com/) using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[music player site](https://musicplayer-my.netlify.app/)**
 ### Icon 
 ![icon 1](https://github.com/eliya72/PROJECTS/assets/53794805/f074264c-7061-4545-868e-19a4346af2a6)
