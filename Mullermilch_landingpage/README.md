@@ -1,6 +1,6 @@
 # Mullermilch Landing Page
 ## This project is hosted by notify using my privat repository on GitHub
-## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[Mullermilch-page](https://mullermilchmyversion.netlify.app/)**
+## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[Mullermilch banana landing page](https://mullermilchmyversion.netlify.app/)**
 ### Icon 
 ![logo 1](https://github.com/eliya72/PROJECTS/assets/53794805/b1e1f48a-aec8-495a-a8cf-ae3f99e85da4)
 #### Tech. used:
