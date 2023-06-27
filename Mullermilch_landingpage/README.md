@@ -15,32 +15,41 @@
 ![firstpage](https://github.com/eliya72/PROJECTS/assets/53794805/148ab0a1-45a9-49a7-97a5-fe2f5a24bc3d)
 ### ◻ phone view
 #### *360 x 740* etc.
-![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/dd4d7eea-9c68-4465-b1db-864e86db3b7f)
-![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/3ac76c21-3c43-4e98-959f-8c7a3a1aeaf4)
+![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/5fa6c2f9-9b91-4fb8-927c-df6d48272452)
+![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/1dd2a8c6-a478-4bb7-8c11-220e971936fe)
+### ◻ selected button navbar animation
+![navselected](https://github.com/eliya72/PROJECTS/assets/53794805/6c5b62e6-9095-479b-8ec6-082602e42ce2)
+![navselectedmobile](https://github.com/eliya72/PROJECTS/assets/53794805/4ebdd0cc-16ef-4c45-97a7-10d747ad860f)
 ### ◻ display size of the products page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
-![products](https://github.com/eliya72/PROJECTS/assets/53794805/2f874df6-794f-415f-992c-0158abac18fc)
+![products](https://github.com/eliya72/PROJECTS/assets/53794805/a6cb2d66-a4b8-47df-8c43-143c2f9d7ab7)
 ### ◻ phone view
 #### *360 x 740* etc.
-![productsphone](https://github.com/eliya72/PROJECTS/assets/53794805/b7cc9f48-b71a-4abb-af7b-e06e3b52ab70)
+![productsphone](https://github.com/eliya72/PROJECTS/assets/53794805/f5dbb5c4-dd6b-45a0-84be-b50ad4c92498)
+### ◻ chosen product carousel animation
+![selectedproductcarousel](https://github.com/eliya72/PROJECTS/assets/53794805/a5fd3e81-c4e1-48c8-a063-1f78f89a6ff7)
 ### ◻ display size of the about page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
-![about](https://github.com/eliya72/PROJECTS/assets/53794805/53865b46-cd0f-438d-b5a2-424759834703)
-![about1](https://github.com/eliya72/PROJECTS/assets/53794805/47766e5d-2230-4ffc-9bbd-a713317e02c0)
+![about](https://github.com/eliya72/PROJECTS/assets/53794805/c0b0a5f0-2ead-4a10-87cd-ca49da7e84c3)
+![about1](https://github.com/eliya72/PROJECTS/assets/53794805/97a1a885-1d22-4803-a6af-d26536325220)
 ### ◻ phone view
 #### *360 x 740* etc.
-![aboutmobile](https://github.com/eliya72/PROJECTS/assets/53794805/9e3f466f-5c71-4efa-a8ef-733018601e89)
-![aboutmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/163f226e-0832-4891-9c2d-836aaae8ffc7)
-![aboutmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/f36a1f86-d4d3-4991-b234-8fd4774bf022)
+![aboutmobile](https://github.com/eliya72/PROJECTS/assets/53794805/5e7b90ca-0507-4dc7-a449-7dd3a9da5298)
+![aboutmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/b7873d98-b1ac-41d3-8a67-12ded505f1ef)
+![aboutmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/e30150cc-ce60-4b55-a4ea-b4287066831d)
+### ◻ chosen section palette animation
+![selectedabout](https://github.com/eliya72/PROJECTS/assets/53794805/0e0aba31-4c74-4a5c-ba3b-a0990af0a499)
 ### ◻ display size of the contacts page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
-![contacts](https://github.com/eliya72/PROJECTS/assets/53794805/cc140695-da77-4748-85ec-e3fd948f0a6c)
-![contacts1](https://github.com/eliya72/PROJECTS/assets/53794805/034d85a7-107b-426b-be5a-c33f797d3804)
+![contacts](https://github.com/eliya72/PROJECTS/assets/53794805/3cb6b37e-98a8-4612-b88d-ccddf51c7d86)
+![contacts1](https://github.com/eliya72/PROJECTS/assets/53794805/7365c799-f308-4ff6-bced-8e31e7118478)
 ### ◻ phone view
 #### *360 x 740* etc.
-![contactsmobile](https://github.com/eliya72/PROJECTS/assets/53794805/1a559fde-4acc-4faf-bc1f-7671818f06b9)
-![contactsmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/b838d6fa-745f-4905-b114-a8ee3c9b1a90)
-![contactsmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/f0f0556e-8d5d-40bb-9746-6cb94ff010b9)
+![contactsmobile](https://github.com/eliya72/PROJECTS/assets/53794805/ec1755f2-81cc-4f52-a163-69e57cee83ca)
+![contactsmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/3a1716ed-5c95-424f-b494-9b3932994207)
+![contactsmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/5ac98d69-ae60-4902-8611-74831e3b8917)
+### ◻ selected chapter footer animation
+![footerselected](https://github.com/eliya72/PROJECTS/assets/53794805/13162328-83ed-4d8a-b1a8-4ce8d5e1a030)
 ### ◻ window alert (it called whenever checkbox isn't pressed):
 ![alertwindow](https://github.com/eliya72/PROJECTS/assets/53794805/3ed60a7c-a65a-4350-83fb-0e2360b182a1)
 ### ◻ fixed navbar full width:
