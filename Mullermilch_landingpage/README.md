@@ -17,13 +17,13 @@
 #### *360 x 740* etc.
 ![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/dd4d7eea-9c68-4465-b1db-864e86db3b7f)
 ![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/3ac76c21-3c43-4e98-959f-8c7a3a1aeaf4)
-### ◻ display size of the products page:
+### ◻ display size of the products page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
 ![products](https://github.com/eliya72/PROJECTS/assets/53794805/2f874df6-794f-415f-992c-0158abac18fc)
 ### ◻ phone view
 #### *360 x 740* etc.
 ![productsphone](https://github.com/eliya72/PROJECTS/assets/53794805/b7cc9f48-b71a-4abb-af7b-e06e3b52ab70)
-### ◻ display size of the about page:
+### ◻ display size of the about page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
 ![about](https://github.com/eliya72/PROJECTS/assets/53794805/53865b46-cd0f-438d-b5a2-424759834703)
 ![about1](https://github.com/eliya72/PROJECTS/assets/53794805/47766e5d-2230-4ffc-9bbd-a713317e02c0)
@@ -32,7 +32,7 @@
 ![aboutmobile](https://github.com/eliya72/PROJECTS/assets/53794805/9e3f466f-5c71-4efa-a8ef-733018601e89)
 ![aboutmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/163f226e-0832-4891-9c2d-836aaae8ffc7)
 ![aboutmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/f36a1f86-d4d3-4991-b234-8fd4774bf022)
-### ◻ display size of the contacts page:
+### ◻ display size of the contacts page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
 ![contacts](https://github.com/eliya72/PROJECTS/assets/53794805/cc140695-da77-4748-85ec-e3fd948f0a6c)
 ![contacts1](https://github.com/eliya72/PROJECTS/assets/53794805/034d85a7-107b-426b-be5a-c33f797d3804)
