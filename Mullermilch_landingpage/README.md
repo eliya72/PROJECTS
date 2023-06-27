@@ -43,7 +43,7 @@
 ![contactsmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/f0f0556e-8d5d-40bb-9746-6cb94ff010b9)
 ### ◻ window alert (it called whenever checkbox isn't pressed):
 ![alertwindow](https://github.com/eliya72/PROJECTS/assets/53794805/3ed60a7c-a65a-4350-83fb-0e2360b182a1)
-### ◻ navbar full width:
+### ◻ fixed navbar full width:
 ![navfull](https://github.com/eliya72/PROJECTS/assets/53794805/ba7e18ad-c709-4974-9bc8-1d49a77c9bc8)
-### ◻ navbar mobile width:
+### ◻ fixed navbar mobile width:
 ![navmobile](https://github.com/eliya72/PROJECTS/assets/53794805/da817ad9-6531-4a97-adc3-876e047c2734)
