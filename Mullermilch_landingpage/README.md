@@ -12,11 +12,11 @@
 ![loader](https://github.com/eliya72/PROJECTS/assets/53794805/f3c795d2-e3fb-4637-bbfb-142603f25ff0)
 ### ◻ display size of the home page:
 #### *1920 x 1080* etc.
-![firstpage](https://github.com/eliya72/PROJECTS/assets/53794805/148ab0a1-45a9-49a7-97a5-fe2f5a24bc3d)
+![firstpage](https://github.com/eliya72/PROJECTS/assets/53794805/5aa70836-4994-4b09-b814-595e873e293e)
 ### ◻ phone view
 #### *360 x 740* etc.
-![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/5fa6c2f9-9b91-4fb8-927c-df6d48272452)
-![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/1dd2a8c6-a478-4bb7-8c11-220e971936fe)
+![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/a90f081d-3431-43d4-97d2-c63f3d0c9aa5)
+![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/c58ef9f3-e749-47c7-976f-e38b202288f7)
 ### ◻ selected button navbar hover animation
 ![navselected](https://github.com/eliya72/PROJECTS/assets/53794805/6c5b62e6-9095-479b-8ec6-082602e42ce2)
 ![navselectedmobile](https://github.com/eliya72/PROJECTS/assets/53794805/4ebdd0cc-16ef-4c45-97a7-10d747ad860f)
