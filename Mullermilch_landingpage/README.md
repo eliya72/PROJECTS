@@ -15,7 +15,7 @@
 ![firstpage](https://github.com/eliya72/PROJECTS/assets/53794805/5aa70836-4994-4b09-b814-595e873e293e)
 ### ◻ phone view
 #### *360 x 740* etc.
-![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/a90f081d-3431-43d4-97d2-c63f3d0c9aa5)
+![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/d731cc3b-5377-44bb-83f1-6e8fddd936fa)
 ![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/c58ef9f3-e749-47c7-976f-e38b202288f7)
 ### ◻ selected button navbar hover animation
 ![navselected](https://github.com/eliya72/PROJECTS/assets/53794805/6c5b62e6-9095-479b-8ec6-082602e42ce2)
