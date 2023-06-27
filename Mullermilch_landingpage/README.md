@@ -4,7 +4,7 @@
 ### Icon 
 ![logo 1](https://github.com/eliya72/PROJECTS/assets/53794805/b1e1f48a-aec8-495a-a8cf-ae3f99e85da4)
 ### Tech. used:
-&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;&nbsp;![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+&nbsp;&nbsp;![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;&nbsp;![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;&nbsp;![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 #### Design was created by me in Figma &nbsp;-->&nbsp; [Mullermilch Figma](https://www.figma.com/file/GSkQwRXuZKc1d5KoBnHdyq/Mullermilch?type=design&t=1fw6J4yNCFo0oKYS-1)
 #### Dependencies used in project &nbsp;->&nbsp; [react-icons npm](https://react-icons.github.io/react-icons/)
 <br></br>
