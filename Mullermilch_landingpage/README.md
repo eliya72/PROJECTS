@@ -1,5 +1,5 @@
 # Mullermilch Landing Page
-## This project is hosted by notify using my build folder directly being uploaded
+## This project is hosted by [Netlify](https://www.netlify.com/) using my build folder directly being uploaded
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[Mullermilch banana landing page](https://mullermilchmyversion.netlify.app/)**
 ### Icon 
 ![logo 1](https://github.com/eliya72/PROJECTS/assets/53794805/b1e1f48a-aec8-495a-a8cf-ae3f99e85da4)
