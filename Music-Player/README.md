@@ -8,7 +8,7 @@
 #### Icon is mine and was designed in Adobe Illustrator
 <br></br>
 # ➕ Some overview:
-## ◻ loader:
+## ◻ loader (has a spinning animation):
 ![loadert](https://github.com/eliya72/PROJECTS/assets/53794805/cde778cf-b87e-4357-b7f5-bd335f2f1f72)
 ## ◻ display size of the home page:
 ### ▫◽💨 Track rewinding and volume level are present and functional (-  just click either on volume line below headsets image or track line  -)
