@@ -1,5 +1,5 @@
 # Current weather site
-## This project is hosted by [Netlify](https://www.netlify.com/) using my privat repository on GitHub
+### This project is hosted by [Netlify](https://www.netlify.com/) using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[weathersite-eliia](https://weathersite-eliia.netlify.app/)**
 ### Icon 
 ![Group](https://github.com/eliya72/PROJECTS/assets/53794805/3b37d915-2b06-4426-b91e-a24cd48a1bd0)
