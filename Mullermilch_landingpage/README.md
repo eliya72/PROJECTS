@@ -11,9 +11,10 @@
 #### Inspirable sites: https://www.mullerpolska.pl/ &nbsp;&nbsp;and&nbsp;&nbsp; https://allesmuelleroderwas.de/
 
 # ➕ Some overview:
+### all screenshots are without fixed navbar, but on site it fixed
 ### ◻ loader (has a spinning animation):
 ![loader](https://github.com/eliya72/PROJECTS/assets/53794805/f3c795d2-e3fb-4637-bbfb-142603f25ff0)
-### ◻ display size of the home page:
+### ◻ display size of the home page (Mullermilch bottle has a floating animation):
 #### *1920 x 1080* etc.
 ![firstpage](https://github.com/eliya72/PROJECTS/assets/53794805/5aa70836-4994-4b09-b814-595e873e293e)
 ### ◻ phone view
@@ -23,15 +24,15 @@
 ### ◻ selected button navbar hover animation
 ![navselected](https://github.com/eliya72/PROJECTS/assets/53794805/6c5b62e6-9095-479b-8ec6-082602e42ce2)
 ![navselectedmobile](https://github.com/eliya72/PROJECTS/assets/53794805/4ebdd0cc-16ef-4c45-97a7-10d747ad860f)
-### ◻ display size of the products page (without fixed navbar, but on site it fixed):
+### ◻ display size of the products page (slider has an auto rewinding, but you could also rewind it using appropriate arrows or dots):
 #### *1920 x 1080* etc.
 ![products](https://github.com/eliya72/PROJECTS/assets/53794805/a6cb2d66-a4b8-47df-8c43-143c2f9d7ab7)
 ### ◻ phone view
 #### *360 x 740* etc.
 ![productsphone](https://github.com/eliya72/PROJECTS/assets/53794805/f5dbb5c4-dd6b-45a0-84be-b50ad4c92498)
-### ◻ chosen product carousel hover animation
+### ◻ chosen product in carousel hover animation (you can also rewind the carousel itself)
 ![selectedproductcarousel](https://github.com/eliya72/PROJECTS/assets/53794805/a5fd3e81-c4e1-48c8-a063-1f78f89a6ff7)
-### ◻ display size of the about page (without fixed navbar, but on site it fixed):
+### ◻ display size of the about page:
 #### *1920 x 1080* etc.
 ![about](https://github.com/eliya72/PROJECTS/assets/53794805/c0b0a5f0-2ead-4a10-87cd-ca49da7e84c3)
 ![about1](https://github.com/eliya72/PROJECTS/assets/53794805/97a1a885-1d22-4803-a6af-d26536325220)
@@ -42,7 +43,7 @@
 ![aboutmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/e30150cc-ce60-4b55-a4ea-b4287066831d)
 ### ◻ chosen section palette hover animation (picture inside is scaling up and when hover on button above, its arrow moving to the right)
 ![selectedabout](https://github.com/eliya72/PROJECTS/assets/53794805/0e0aba31-4c74-4a5c-ba3b-a0990af0a499)
-### ◻ display size of the contacts page (without fixed navbar, but on site it fixed):
+### ◻ display size of the contacts page:
 #### *1920 x 1080* etc.
 ![contacts](https://github.com/eliya72/PROJECTS/assets/53794805/3cb6b37e-98a8-4612-b88d-ccddf51c7d86)
 ![contacts1](https://github.com/eliya72/PROJECTS/assets/53794805/7365c799-f308-4ff6-bced-8e31e7118478)
