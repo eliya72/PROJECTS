@@ -30,7 +30,7 @@
 ### ◻ phone view
 #### *360 x 740* etc.
 ![productsphone](https://github.com/eliya72/PROJECTS/assets/53794805/f5dbb5c4-dd6b-45a0-84be-b50ad4c92498)
-### ◻ chosen product in carousel hover animation (you can also rewind the carousel itself)
+### ◻ chosen product from the carousel hover animation (you can also rewind the carousel itself)
 ![selectedproductcarousel](https://github.com/eliya72/PROJECTS/assets/53794805/a5fd3e81-c4e1-48c8-a063-1f78f89a6ff7)
 ### ◻ display size of the about page:
 #### *1920 x 1080* etc.
@@ -41,7 +41,7 @@
 ![aboutmobile](https://github.com/eliya72/PROJECTS/assets/53794805/5e7b90ca-0507-4dc7-a449-7dd3a9da5298)
 ![aboutmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/b7873d98-b1ac-41d3-8a67-12ded505f1ef)
 ![aboutmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/e30150cc-ce60-4b55-a4ea-b4287066831d)
-### ◻ chosen section palette hover animation (picture inside is scaling up and when hover on button above, its arrow moving to the right)
+### ◻ chosen section from the palette hover animation (picture inside is scaling up and when hover on button above, its arrow moving to the right)
 ![selectedabout](https://github.com/eliya72/PROJECTS/assets/53794805/0e0aba31-4c74-4a5c-ba3b-a0990af0a499)
 ### ◻ display size of the contacts page:
 #### *1920 x 1080* etc.
