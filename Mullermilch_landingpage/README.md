@@ -58,4 +58,4 @@
 ### ◻ fixed navbar full width:
 ![navfull](https://github.com/eliya72/PROJECTS/assets/53794805/ba7e18ad-c709-4974-9bc8-1d49a77c9bc8)
 ### ◻ fixed navbar mobile width:
-![navmobile](https://github.com/eliya72/PROJECTS/assets/53794805/da817ad9-6531-4a97-adc3-876e047c2734)
+![navmobile](https://github.com/eliya72/PROJECTS/assets/53794805/20b13396-4fd6-4cac-aa1f-90653261b411)
