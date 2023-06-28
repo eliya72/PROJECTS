@@ -8,7 +8,7 @@
 #### Icon is mine and was designed in Figma
 <br></br>
 # ➕ Some overview:
-### ◻ loader:
+### ◻ loader (has a spinning animation):
 ![loader](https://github.com/eliya72/PROJECTS/assets/53794805/74b5eaae-e199-46a6-80fa-970b51b29a90)
 ### ◻ display size of the home page:
 #### *1920 x 1080* etc.
