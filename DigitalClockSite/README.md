@@ -1,5 +1,5 @@
 # Digital Clock Site
-## This project is hosted by [Netlify](https://www.netlify.com/) using my privat repository on GitHub
+### This project is hosted by [Netlify](https://www.netlify.com/) using my privat repository on GitHub
 ## So here is link to site &nbsp;&nbsp; ---> &nbsp;&nbsp; **[digital-clocksite](https://digital-clocksite.netlify.app/)**
 ### Icon 
 ![image 1](https://github.com/eliya72/PROJECTS/assets/53794805/8ce3ffe8-ce51-43f4-bf70-dd59c4bf281c)
