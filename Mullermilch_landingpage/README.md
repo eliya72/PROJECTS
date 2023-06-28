@@ -40,7 +40,7 @@
 ![aboutmobile](https://github.com/eliya72/PROJECTS/assets/53794805/5e7b90ca-0507-4dc7-a449-7dd3a9da5298)
 ![aboutmobile1](https://github.com/eliya72/PROJECTS/assets/53794805/b7873d98-b1ac-41d3-8a67-12ded505f1ef)
 ![aboutmobile2](https://github.com/eliya72/PROJECTS/assets/53794805/e30150cc-ce60-4b55-a4ea-b4287066831d)
-### ◻ chosen section palette hover animation (picture inside is scaling and when hover on button above, its arrow moving to the right)
+### ◻ chosen section palette hover animation (picture inside is scaling up and when hover on button above, its arrow moving to the right)
 ![selectedabout](https://github.com/eliya72/PROJECTS/assets/53794805/0e0aba31-4c74-4a5c-ba3b-a0990af0a499)
 ### ◻ display size of the contacts page (without fixed navbar, but on site it fixed):
 #### *1920 x 1080* etc.
