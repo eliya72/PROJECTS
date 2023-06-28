@@ -21,6 +21,8 @@
 #### *360 x 740* etc.
 ![mobilehomepage](https://github.com/eliya72/PROJECTS/assets/53794805/d731cc3b-5377-44bb-83f1-6e8fddd936fa)
 ![mobilehomepage2](https://github.com/eliya72/PROJECTS/assets/53794805/c58ef9f3-e749-47c7-976f-e38b202288f7)
+### ◻ page auto scrolling button to top/bottom (it changes its arrow direction according to whether user is on top/bottom of the page)
+![pagerewind](https://github.com/eliya72/PROJECTS/assets/53794805/0566cea4-9283-4191-aaea-9068bff936c6)
 ### ◻ selected button navbar hover animation
 ![navselected](https://github.com/eliya72/PROJECTS/assets/53794805/6c5b62e6-9095-479b-8ec6-082602e42ce2)
 ![navselectedmobile](https://github.com/eliya72/PROJECTS/assets/53794805/4ebdd0cc-16ef-4c45-97a7-10d747ad860f)
@@ -56,8 +58,6 @@
 ![footerselected](https://github.com/eliya72/PROJECTS/assets/53794805/13162328-83ed-4d8a-b1a8-4ce8d5e1a030)
 ### ◻ window alert (it called whenever checkbox isn't pressed):
 ![alertwindow](https://github.com/eliya72/PROJECTS/assets/53794805/3ed60a7c-a65a-4350-83fb-0e2360b182a1)
-### ◻ page auto scrolling button to top/bottom (it changes its arrow direction according to whether user is on top/bottom of the page)
-![pagerewind](https://github.com/eliya72/PROJECTS/assets/53794805/0566cea4-9283-4191-aaea-9068bff936c6)
 ### ◻ fixed navbar full width:
 ![navfull](https://github.com/eliya72/PROJECTS/assets/53794805/ba7e18ad-c709-4974-9bc8-1d49a77c9bc8)
 ### ◻ fixed navbar mobile width:
