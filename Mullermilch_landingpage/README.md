@@ -24,7 +24,7 @@
 ### ◻ selected button navbar hover animation
 ![navselected](https://github.com/eliya72/PROJECTS/assets/53794805/6c5b62e6-9095-479b-8ec6-082602e42ce2)
 ![navselectedmobile](https://github.com/eliya72/PROJECTS/assets/53794805/4ebdd0cc-16ef-4c45-97a7-10d747ad860f)
-### ◻ display size of the products page (slider has an auto rewinding, but you could also rewind it using appropriate arrows or dots):
+### ◻ display size of the products page (main slider has an auto rewind, but you could also rewind it using appropriate arrows or dots):
 #### *1920 x 1080* etc.
 ![products](https://github.com/eliya72/PROJECTS/assets/53794805/a6cb2d66-a4b8-47df-8c43-143c2f9d7ab7)
 ### ◻ phone view
