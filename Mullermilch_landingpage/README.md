@@ -11,7 +11,7 @@
 #### Inspirable sites: https://www.mullerpolska.pl/ &nbsp;&nbsp;and&nbsp;&nbsp; https://allesmuelleroderwas.de/
 
 # ➕ Some overview:
-### ◻ loader:
+### ◻ loader (has a spinning animation):
 ![loader](https://github.com/eliya72/PROJECTS/assets/53794805/f3c795d2-e3fb-4637-bbfb-142603f25ff0)
 ### ◻ display size of the home page:
 #### *1920 x 1080* etc.
