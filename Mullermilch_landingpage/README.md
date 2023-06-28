@@ -56,6 +56,8 @@
 ![footerselected](https://github.com/eliya72/PROJECTS/assets/53794805/13162328-83ed-4d8a-b1a8-4ce8d5e1a030)
 ### ◻ window alert (it called whenever checkbox isn't pressed):
 ![alertwindow](https://github.com/eliya72/PROJECTS/assets/53794805/3ed60a7c-a65a-4350-83fb-0e2360b182a1)
+### ◻ page auto scrolling button to top/bottom (it changes its arrow direction according to whether user is on top/bottom of the page)
+![pagerewind](https://github.com/eliya72/PROJECTS/assets/53794805/0566cea4-9283-4191-aaea-9068bff936c6)
 ### ◻ fixed navbar full width:
 ![navfull](https://github.com/eliya72/PROJECTS/assets/53794805/ba7e18ad-c709-4974-9bc8-1d49a77c9bc8)
 ### ◻ fixed navbar mobile width:
